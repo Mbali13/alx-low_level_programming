@@ -4,9 +4,12 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * main - main function
+ * main - Entry point
  *
- * Return always 0
+ * This function generates a random number and determines if it's positive,
+ *  negative , or zero, and prints the result.
+ *
+ * Return:Always 0 (Success)
  */
 
 int main(void)
