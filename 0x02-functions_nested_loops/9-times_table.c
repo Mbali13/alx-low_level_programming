@@ -1,5 +1,10 @@
 #include "main.h"
 #include <stdio.h>
+
+/**
+ * times_table - print numbers in time table
+ * Return: 0
+ */
 void times_table(void)
 {
 	int i, g, result;
