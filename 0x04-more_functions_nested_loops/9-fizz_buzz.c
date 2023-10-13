@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * mzin - main function
+ * main - main function
  * Return: always 0
  */
 
